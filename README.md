@@ -2,6 +2,9 @@
 Chat di gruppo creata in java.
 Tramite l'avvio del programma dal cmd del server e del client si ha la possibilità di chattare con i propi amici scegliendo il propio nickname
 
+##Installazione
+
+##Utilizzo
 
 ##Patch Notes
 versione 1.0
